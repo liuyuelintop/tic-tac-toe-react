@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/tic-tac-toe-react/static/css/main.b5e0b178.css",
-    "main.js": "/github.io/tic-tac-toe-react/static/js/main.0ba57148.js",
-    "static/media/game_over.wav": "/github.io/tic-tac-toe-react/static/media/game_over.3894918f7585f9300350.wav",
-    "static/media/click.wav": "/github.io/tic-tac-toe-react/static/media/click.450b31dca5ff2247781d.wav",
-    "index.html": "/github.io/tic-tac-toe-react/index.html",
-    "main.b5e0b178.css.map": "/github.io/tic-tac-toe-react/static/css/main.b5e0b178.css.map",
-    "main.0ba57148.js.map": "/github.io/tic-tac-toe-react/static/js/main.0ba57148.js.map"
+    "main.css": "/tic-tac-toe-react/static/css/main.b5e0b178.css",
+    "main.js": "/tic-tac-toe-react/static/js/main.40582c7a.js",
+    "static/media/game_over.wav": "/tic-tac-toe-react/static/media/game_over.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/tic-tac-toe-react/static/media/click.450b31dca5ff2247781d.wav",
+    "index.html": "/tic-tac-toe-react/index.html",
+    "main.b5e0b178.css.map": "/tic-tac-toe-react/static/css/main.b5e0b178.css.map",
+    "main.40582c7a.js.map": "/tic-tac-toe-react/static/js/main.40582c7a.js.map"
   },
   "entrypoints": [
     "static/css/main.b5e0b178.css",
-    "static/js/main.0ba57148.js"
+    "static/js/main.40582c7a.js"
   ]
 }
