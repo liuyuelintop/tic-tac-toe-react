@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/liuyuelintop/tic-tac-toe-react/static/css/main.b5e0b178.css",
+    "main.js": "/liuyuelintop/tic-tac-toe-react/static/js/main.b7c140f4.js",
+    "static/media/game_over.wav": "/liuyuelintop/tic-tac-toe-react/static/media/game_over.3894918f7585f9300350.wav",
+    "static/media/click.wav": "/liuyuelintop/tic-tac-toe-react/static/media/click.450b31dca5ff2247781d.wav",
+    "index.html": "/liuyuelintop/tic-tac-toe-react/index.html",
+    "main.b5e0b178.css.map": "/liuyuelintop/tic-tac-toe-react/static/css/main.b5e0b178.css.map",
+    "main.b7c140f4.js.map": "/liuyuelintop/tic-tac-toe-react/static/js/main.b7c140f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5e0b178.css",
+    "static/js/main.b7c140f4.js"
+  ]
+}
