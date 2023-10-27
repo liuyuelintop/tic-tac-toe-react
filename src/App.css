@@ -110,3 +110,35 @@ h1 {
   width: 100%;
   font-size: 1.5em;
 }
+
+/* History container */
+.history-container {
+  margin-top: 50px;
+  width: 250px;
+  background-color: rgba(0, 0, 0, 0.3);  /* Slightly transparent background */
+  border-radius: 8px;
+  padding: 10px 20px;
+  overflow-y: auto;  /* Scrollable if too many history entries */
+}
+
+/* Individual history entries */
+.history-entry {
+  padding: 10px;
+  border: 2px solid transparent;
+  border-radius: 5px;
+  margin-bottom: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Hover effect on history entries */
+.history-entry:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: #0074a6;
+}
+
+/* If you want to highlight the currently selected history step */
+.history-entry.active {
+  background-color: rgba(0, 116, 166, 0.2);  /* Slightly transparent version of the button color */
+  border-color: #0074a6;
+}
